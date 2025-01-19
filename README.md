@@ -1,16 +1,23 @@
-## Hi there 👋
+<h1 align="left">Hey</h1>
 
-<!--
-**ioatouchdiddy/ioatouchdiddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<p align="left">My name is jay and I'm a developer.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">📚 I'm currently learning Kernel</p>
+
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+<p align="left">C++, C, html, css</p>
+
+###
